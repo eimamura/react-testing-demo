@@ -19,6 +19,7 @@ function App() {
         >
           Learn React 2
         </a>
+        <a href="/.auth/login/github">Login</a>
       </header>
     </div>
   );
